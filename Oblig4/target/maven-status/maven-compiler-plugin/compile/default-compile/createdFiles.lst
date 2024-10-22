@@ -1,0 +1,12 @@
+Deltakerliste/DeltakerRepo.class
+Controller/PaameldingController.class
+Deltakerliste/DeltakerService.class
+Util/InputValidator.class
+Controller/DeltagerlisteController.class
+Util/LoginUtil.class
+Oblig4Del1com/example/Oblig4/Oblig4Application.class
+Controller/LoginController.class
+Deltakerliste/Deltaker.class
+Controller/PaameldtController.class
+Util/PassordUtil.class
+Controller/LogoutController.class
